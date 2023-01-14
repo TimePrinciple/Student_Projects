@@ -1,0 +1,12 @@
+60730027 Leslie Winkle 2007.0 8.0
+30015494 Bart Simpson 1012.0 11.0
+31064071 Lisa Simpson 2011.0 11.0
+30304 Homer Simpson 3013.0 14.0
+0001 Nicola Tesla
+29753356 John Terry 3015.0 23.0
+34865169 Wayne Rooney 2033.0 16.0
+15990804 Cristiano Ronaldo 1022.0 22.0
+0002 Albert Einstein
+15990804 Lionel Messi 3018.0 18.0
+10950582 Tom Cruise 2019.0 20.0
+22743516 Monty Python 1025.0 29.0
